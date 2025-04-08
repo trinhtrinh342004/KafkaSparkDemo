@@ -110,7 +110,6 @@ Re-size the `SPARK_WORKER_CORES` and `SPARK_WORKER_MEMORY` to size the cluster s
 
 *Check the amount of host resources allocated to Docker in the Docker Desktop configuration*.  8 GB of memory is recommended, 4 GB is the minimum.
 
-![Docker Desktop Windows settings](./images/DockerDesktopMemory.png)  
 
 
 ## Spark-Master Logs and Interactive Shell ##
